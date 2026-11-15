@@ -1,0 +1,22 @@
+# KiCad autosave, backup, and generated files
+*.kicad_prl
+*.kicad_pro-bak
+*.bak
+*-backups
+*.autosave
+_autosave-*
+
+# KiCad generated outputs
+*.gbr
+*.drl
+*.step
+*.stp
+*.net
+*.csv
+
+# Proteus backups and simulation artefacts
+*.pdsbak
+*.pdssav
+*.sdf
+*.dbk
+*.tmp
